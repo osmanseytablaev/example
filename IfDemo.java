@@ -6,7 +6,7 @@ class IfDemo {
 	if(a < b) System.out.println("a меньше b");
 	// Следующая строка никогда не может быть выведена
 	if(a == b) System.out.println("Bы не должны увидеть этот текст");
-     `	System.out.println();
+     	System.out.println();
 	c = a - b; // переменная "с" содержит значение -1
 	System.out.println("c содержит -1");
 	if(c >= 0) System.out.println("c - не отрицательное число");
